@@ -20,5 +20,5 @@ Linkedin https://www.linkedin.com/in/uchechi-nkwocha<br>
 
 
 ## Fun fact
-Nothing is free; because to listen attentively you need to pay attention.
+Nothing is free; even to listen attentively you need to pay attention.
 
