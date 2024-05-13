@@ -1,6 +1,6 @@
 ## I am Uchechi Nkwocha(ucnkwocha)
 
-### A data analyst on a journey to discovering insights, patterns and trends that would help positively influence business decision and growth.
+### A data analyst on a journey to discovering insights, patterns and trends that would help influence business decision and growth positively.
 
 I am currently improving my skills on SQL, excel, googlesheets, power BI .
 
