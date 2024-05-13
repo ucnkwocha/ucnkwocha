@@ -1,16 +1,24 @@
-### Hi there 👋
+## I am Uchechi Nkwocha(ucnkwocha)
 
-<!--
-**ucnkwocha/ucnkwocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A data analyst on a journey to discovering insights, patterns and trends that would help positively influence business decision and growth.
 
-Here are some ideas to get you started:
+I am currently improving my skills on SQL, excel, googlesheets, power BI .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am available for roles, opportunities and collaboration in data analytics where i can work with likeminds, sharpen my skills, gain practical experience and contribute positively.
+
+I am teachable and open to correction on my projects.
+
+Please feel free to reach me on
+ 
+Email uchechi.nkwocha@yahoo.com<br>
+Phone number 07032852624<br>
+Twitter @UcDovey<br>
+
+Linkedin https://www.linkedin.com/in/uchechi-nkwocha<br>
+
+
+
+
+## Fun fact
+Nothing is free; because to listen attentively you need to pay attention.
+
